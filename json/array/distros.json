@@ -1,0 +1,20 @@
+{
+    "how_many_distros": 3,
+    "distros": [
+        {
+            "distro_name": "Ubuntu",
+            "based_on": "Debian",
+            "default_de": "Gnome"
+        },
+        {
+            "distro_name": "Linux Mint",
+            "based_on": "Ubuntu",
+            "default_de": "Cinnamon"
+        },
+        {
+            "distro_name": "EnsoOS",
+            "based_on": "Ubuntu",
+            "default_de": "Xfce"
+        }
+    ]
+}

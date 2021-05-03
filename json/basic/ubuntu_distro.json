@@ -1,0 +1,5 @@
+{
+    "distro_name": "Ubuntu",
+    "based_on": "Debian",
+    "default_de": "Gnome"
+}
